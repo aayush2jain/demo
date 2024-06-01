@@ -18,9 +18,9 @@ const Homepage = () => {
                         Contact</a></h2>
                 </div>
                 <div className='flex flex-row gap-[4vw]' >
-                    <div className='flex flex-row'>
-                         <h1><i class="fa-solid fa-magnifying-glass text-2xl"></i></h1>
-                    <input type='text' className='rounded-full border-2 w-[15vw] border-black pl-2 py-1 focus:border-black' placeholder='Search'></input>
+                    <div className='flex flex-row gap-[1vw]'>
+                    <h1><i class="fa-solid fa-magnifying-glass text-2xl"></i></h1>
+                    <h1><input type='text' className='rounded-full border-2 w-[15vw] border-black pl-2 py-1 focus:border-black' placeholder='Search'></input></h1>
                     </div>
                     <h1><i className="fa-solid fa-cart-shopping text-2xl"></i></h1>
                     <h1><i className="fa-solid fa-user text-2xl"></i></h1>
