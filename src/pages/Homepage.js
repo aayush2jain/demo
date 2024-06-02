@@ -11,7 +11,7 @@ const Homepage = () => {
                     <h2 className=" cursor-pointer hover:underline decoration-zinc-800 text-xl "><Link href="#home"
                             >Home</Link></h2>
                     <h2 className="  cursor-pointer hover:underline decoration-zinc-800 text-xl "><Link href="#about"
-                          >About us</Link></h2>
+                          >About</Link></h2>
                     <h2 className="cursor-pointer hover:underline decoration-zinc-800 text-xl "><Link href="#project"
                            >Blog</Link></h2>
                     <h2 className=" cursor-pointer hover:underline decoration-zinc-800 text-xl "><a href="#contact">
